@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["modelo mvc","nodejs"],
+  "author": "José Alvarado",
+  "license": "MIT"
+}
