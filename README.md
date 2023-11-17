@@ -1,4 +1,4 @@
-# Directorio MVC Modelo Vista Controlador Automatico
+# Directorio MVC Modelo Vista Controlador Automático
 ***
 Este proyecto que barca solo dos archivos js y un packege.json se ve simple, pero es muy potente ya que me permite ahorrar tiempo al crear un modelo vista controlador personalizado de acuerdo a como me gusta desarrollar mi estructura de directorios y de archivos.
 
@@ -23,7 +23,7 @@ Lista de tecnologías usadas en este proyecto:
 * [Control de Versiones en la nube github](https://github.com/jeliasalvaradoa)
 ## Instalación
 
-1. git 
+1. git https://github.com/jeliasalvaradoa/mi_modelo_mvc.git
 2. cd ../path/del directorio/
 3. npm run start y listo se creara todo el esquema MVC para usar en la aplicación   
 
