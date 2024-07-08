@@ -1,6 +1,6 @@
 # Directorio MVC Modelo Vista Controlador Automático
 ***
-Este proyecto que barca solo dos archivos js y un packege.json se ve simple, pero es muy potente ya que me permite ahorrar tiempo al crear un modelo vista controlador personalizado de acuerdo a como me gusta desarrollar mi estructura de directorios y de archivos.
+Este proyecto que abarca solo dos archivos js y un packege.json se ve simple, pero es muy potente ya que me permite ahorrar tiempo al crear un modelo vista controlador personalizado de acuerdo a como me gusta desarrollar mi estructura de directorios y de archivos.
 
 ## Tabla de contenido
 1. [Información General](#info)
